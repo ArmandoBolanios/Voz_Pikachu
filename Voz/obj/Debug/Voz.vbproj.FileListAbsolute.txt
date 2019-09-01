@@ -1,0 +1,98 @@
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\bin\Debug\Voz.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\obj\Debug\Voz.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\obj\Debug\Voz.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\bin\Debug\Voz.exe
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\bin\Debug\Voz.pdb
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\bin\Debug\Voz.xml
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\obj\Debug\Voz.exe
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\obj\Debug\Voz.xml
+c:\users\user\documents\visual studio 2012\Projects\Voz\Voz\obj\Debug\Voz.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\bin\Debug\Voz.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\obj\Debug\Voz.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\obj\Debug\Voz.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\obj\Debug\Voz.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\bin\Debug\Voz.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\bin\Debug\Voz.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\bin\Debug\Voz.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\obj\Debug\Voz.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\obj\Debug\Voz.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Voz\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\bin\Debug\Voz.exe.config
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\obj\Debug\Voz.exe
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\obj\Debug\Voz.xml
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\obj\Debug\Voz.pdb
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\bin\Debug\Voz.exe
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\bin\Debug\Voz.pdb
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\bin\Debug\Voz.xml
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\obj\Debug\Voz.Form1.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\obj\Debug\Voz.Resources.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNew\Voz\obj\Debug\Voz.vbprojResolveAssemblyReference.cache
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\bin\Debug\Voz.exe.config
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\obj\Debug\Voz.exe
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\obj\Debug\Voz.xml
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\obj\Debug\Voz.pdb
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\bin\Debug\Voz.exe
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\bin\Debug\Voz.pdb
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\bin\Debug\Voz.xml
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\obj\Debug\Voz.vbprojResolveAssemblyReference.cache
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\obj\Debug\Voz.Form1.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\obj\Debug\Voz.Resources.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\VozNewArdu\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\bin\Debug\Voz.exe.config
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\obj\Debug\Voz.exe
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\obj\Debug\Voz.xml
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\obj\Debug\Voz.pdb
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\bin\Debug\Voz.exe
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\bin\Debug\Voz.pdb
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\bin\Debug\Voz.xml
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\obj\Debug\Voz.vbprojResolveAssemblyReference.cache
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\obj\Debug\Voz.Form1.resources
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\obj\Debug\Voz.Resources.resources
+D:\9VNO SEMESTRE\Inteligencia Artificial\Unidad 5 6 7\Evidencias Equipo_IA\VozNewArdu\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache
+C:\Users\Kim\Desktop\VozNewArdu\Voz\bin\Debug\Voz.exe.config
+C:\Users\Kim\Desktop\VozNewArdu\Voz\obj\Debug\Voz.exe
+C:\Users\Kim\Desktop\VozNewArdu\Voz\obj\Debug\Voz.xml
+C:\Users\Kim\Desktop\VozNewArdu\Voz\obj\Debug\Voz.pdb
+C:\Users\Kim\Desktop\VozNewArdu\Voz\bin\Debug\Voz.exe
+C:\Users\Kim\Desktop\VozNewArdu\Voz\bin\Debug\Voz.pdb
+C:\Users\Kim\Desktop\VozNewArdu\Voz\bin\Debug\Voz.xml
+C:\Users\Kim\Desktop\VozNewArdu\Voz\obj\Debug\Voz.vbprojResolveAssemblyReference.cache
+C:\Users\Kim\Desktop\VozNewArdu\Voz\obj\Debug\Voz.Form1.resources
+C:\Users\Kim\Desktop\VozNewArdu\Voz\obj\Debug\Voz.Resources.resources
+C:\Users\Kim\Desktop\VozNewArdu\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\bin\Debug\Voz.exe.config
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\obj\Debug\Voz.exe
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\obj\Debug\Voz.xml
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\obj\Debug\Voz.pdb
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\bin\Debug\Voz.exe
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\bin\Debug\Voz.pdb
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\bin\Debug\Voz.xml
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\obj\Debug\Voz.vbprojResolveAssemblyReference.cache
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\obj\Debug\Voz.Form1.resources
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\obj\Debug\Voz.Resources.resources
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu2\Voz\obj\Debug\Voz.InterfazPrincipal.resources
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\bin\Debug\Voz.exe.config
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\obj\Debug\Voz.exe
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\obj\Debug\Voz.xml
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\obj\Debug\Voz.pdb
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\obj\Debug\Voz.vbprojResolveAssemblyReference.cache
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\obj\Debug\Voz.InterfazPrincipal.resources
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\obj\Debug\Voz.Resources.resources
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\bin\Debug\Voz.exe
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\bin\Debug\Voz.pdb
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\VozNewArdu5\Voz\bin\Debug\Voz.xml
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\bin\Debug\Voz.exe.config
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\obj\Debug\Voz.exe
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\obj\Debug\Voz.xml
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\obj\Debug\Voz.pdb
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\bin\Debug\Voz.exe
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\bin\Debug\Voz.pdb
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\bin\Debug\Voz.xml
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\obj\Debug\Voz.vbprojResolveAssemblyReference.cache
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\obj\Debug\Voz.InterfazPrincipal.resources
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\obj\Debug\Voz.Resources.resources
+C:\Users\Kim\Documents\Tec\9no Semestre\Inteligencia Artificial IA\Unidad 5\00 Trabajos\Voz5Pikachu\Voz\obj\Debug\Voz.vbproj.GenerateResource.Cache

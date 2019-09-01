@@ -1,0 +1,48 @@
+///Lo que se dira...
+VOCABULARIO.Append(New Choices("encender cocina", "encender cuarto", "encender sala", "encender baño", "encender todo",
+                                       "apagar cocina", "apagar cuarto", "apagar sala", "apagar baño", "apagar todo"))
+
+///Lo que se enviara traducido...
+
+	    If PALABRA = "encender cocina" Then
+                cadenaSalida = "a"
+                USBConex.Write(cadenaSalida)
+            End If
+            If PALABRA = "encender cuarto" Then
+                cadenaSalida = "b"
+                USBConex.Write(cadenaSalida)
+            End If
+            If PALABRA = "encender sala" Then
+                cadenaSalida = "c"
+                USBConex.Write(cadenaSalida)
+            End If
+            If PALABRA = "encender baño" Then
+                cadenaSalida = "d"
+                USBConex.Write(cadenaSalida)
+            End If
+
+            If PALABRA = "apagar cocina" Then
+                cadenaSalida = "r "
+                USBConex.Write(cadenaSalida)
+            End If
+            If PALABRA = "apagar cuarto" Then
+                cadenaSalida = "B"
+                USBConex.Write(cadenaSalida)
+            End If
+            If PALABRA = "apagar sala" Then
+                cadenaSalida = "C"
+                USBConex.Write(cadenaSalida)
+            End If
+            If PALABRA = "apagar baño" Then
+                cadenaSalida = "D"
+                USBConex.Write(cadenaSalida)
+            End If
+
+            If PALABRA = "encender todo" Then
+                cadenaSalida = "TE"
+                USBConex.Write(cadenaSalida)
+            End If
+            If PALABRA = "apagar todo" Then
+                cadenaSalida = "TA"
+                USBConex.Write(cadenaSalida)
+            End If
